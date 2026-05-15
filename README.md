@@ -38,3 +38,25 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+<h2>Conecta Fatec</h2>
+
+<p>
+  I am the project creator and a Full Stack Developer of <strong>Conecta Fatec</strong>, an academic social network created to connect Fatec students through posts, profiles, communities, friendships, and student interaction.
+</p>
+
+<p>
+  The project was built as a real academic software solution, with a separate frontend and backend structure, focusing on web development, API integration, authentication, interface improvements, and practical software architecture.
+</p>
+
+<p>
+  <a href="https://github.com/Conecta-Fatec" target="_blank">
+    <img src="https://img.shields.io/badge/Organization-Conecta%20Fatec-111111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Conecta-Fatec/conecta-frontend" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-Repository-111111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Conecta-Fatec/conecta-backend" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-Repository-111111?style=for-the-badge&logo=github" />
+  </a>
+</p>
